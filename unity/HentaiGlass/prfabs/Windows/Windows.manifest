@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1725073769
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: plane1.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: plane2.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: plane3.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: plane4.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: plane5.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: plane6.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: plane7.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: plane8.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: plane10.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: plane9.unity3d
+      Dependencies: {}

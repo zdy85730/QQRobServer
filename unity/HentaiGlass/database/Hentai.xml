@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="have10" size="1920.000000 1017.000000" />
+    <ImageTarget name="have9" size="1920.000000 1017.000000" />
+    <ImageTarget name="have8" size="1920.000000 1017.000000" />
+    <ImageTarget name="have7" size="1920.000000 1017.000000" />
+    <ImageTarget name="have6" size="1920.000000 1017.000000" />
+    <ImageTarget name="have5" size="1920.000000 1017.000000" />
+    <ImageTarget name="have4" size="1920.000000 1017.000000" />
+    <ImageTarget name="have3" size="1920.000000 1017.000000" />
+    <ImageTarget name="have2" size="1920.000000 1017.000000" />
+    <ImageTarget name="have1" size="1920.000000 1017.000000" />
+  </Tracking>
+</QCARConfig>
